@@ -29,6 +29,4 @@ public class User {
 		this.emaild = emaild;
 		this.gender = gender;
 	}
-	
-	
 }
